@@ -21,9 +21,7 @@ MD5 hash of .\music_note_generator.exe:
 1. Window where music note are displayed
 2. Field that will count the timer down
 3. Text box for you to choose how long timer will goes (default is 5 sec)
-4. Button to generate random note and start timer countdown (disabled while timer is going)
-5. Stop note from sounding
-6. Adjust volume of  the program in range of -30dB +10dB
+4. Button to generate random note and start the timer countdown (disabled while timer is running)
+5. Stop the note from sounding
+6. Adjust the volume of the program in the range of -30 dB to +10 dB
 7. Completely mute notes
-
-   
